@@ -1,6 +1,6 @@
 # Project Name
 
-Events Project
+Ecommerce crwn-clothing
 
 ## Table of Contents
 
