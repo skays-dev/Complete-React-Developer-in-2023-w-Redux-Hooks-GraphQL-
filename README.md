@@ -1,72 +1,70 @@
-# Getting Started with Create React App
+# Project Name
 
-1-front-End/ReactJs/crwn-clothing
+Events Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Table of Contents
 
-## Available Scripts
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [Link](#link)
+- [Modules](#modules)
 
-In the project directory, you can run:
+## Introduction
 
-### `npm start`
+Ecommerce crwn-clothing with reactJs Redux Firebase...
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Installation
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+First, run the development server:
 
-### `npm test`
+```bash
+npm install
+# and
+npm run dev
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Link
 
-### `npm run build`
+<https://www.udemy.com/course/complete-react-developer-zero-to-mastery/>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Modules
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- React Basics
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- React Router
 
-### `npm run eject`
+- Redux
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Redux Saga
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Asynchronous Redux
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- React Hooks
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- Context API
 
-## Learn More
+- React Suspense + React Lazy
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Firebase
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Stripe API
 
-### Code Splitting
+- Styled-Components
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- GraphQL
 
-### Analyzing the Bundle Size
+- Apollo
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- PWAs
 
-### Making a Progressive Web App
+- React Performance
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- React Design Patterns
 
-### Advanced Configuration
+- Testing with Jest and Snapshot testing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- React Best Practices
 
-### Deployment
+- Persistance + Session Storage
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- State Normalization + more
